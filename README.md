@@ -1,6 +1,6 @@
 # Password Generator App
 
-A feature-rich password generator app built with React. Users can customize password length and choose to include or exclude numbers, special characters, uppercase, and lowercase letters.
+A feature-rich password generator app built with React. Users can customize password length and choose to include or exclude numbers, special characters.
 
 ---
 
